@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Click@Nutri</string>
+    <string name="title_activity_main">Click@Nutri</string>
+    <string name="package_name">com.smartcalories.app</string>
+    <string name="custom_url_scheme">com.smartcalories.app</string>
+</resources>
